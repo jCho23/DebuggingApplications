@@ -4,7 +4,7 @@
   </MonoDevelop.Ide.ItemProperties.DebuggingApplications.iOS>
   <MonoDevelop.Ide.Workbench ActiveDocument="DebuggingApplications/RemovingSideEffects.cs">
     <Files>
-      <File FileName="DebuggingApplications/RemovingSideEffects.cs" Line="1" Column="1" />
+      <File FileName="DebuggingApplications/RemovingSideEffects.cs" Line="9" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
